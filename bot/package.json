@@ -1,16 +1,11 @@
 {
-  "name": "BOT2",
+  "name": "greeter-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "ACR Bot v2.0",
   "main": "bot.js",
+  "author": "Gabriel Bigardi",
   "dependencies": {
-    "discord.js": "^11.4.2"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^2.4.4"
+  }
 }
